@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(255, 255, 255);
+    text-shadow: black;
+    background: black;
+    text-align: left;
+    font-weight: 500;
+    animation-name: fadeIn;
+  }
+  .form{
+    color: black;
+    float: right;
+    text-align: right;
+    
+
+    
+  }
+  
+  .quote-section {
+    background:transparent;
+    justify-content:left;
+   
+   
+  }

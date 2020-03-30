@@ -1,0 +1,5 @@
+<div class="quote-detail">
+<p>{{quote.description}}</p>
+<p>Your Quote Was Uploaded : {{quote.completeDate|dateCount}} Hours Ago</p>
+<button (click)= 'quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
+<app-vote></app-vote>

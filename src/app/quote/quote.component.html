@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="header">
+    <marquee>
+  <h1>INSPIRATIONAL QUOTES</h1>
+</marquee>
+  <hr>
+  <div>
+    <p>Sometimes we feel so low and just need someone to speak something to us, we just need to hear something motivational that will make us ginger,here are some of the things you would love to read at that moment</p>
+  </div>
+  </div>
+  
+  <div class="row">
+      
+    <div class="col-md-4   quote-section">
+
+      <div *ngFor='let quote of quotes;let i = index'>
+        <div>
+          <div class="card card-body my-3 bg-purple">
+            <h6 id={{i}} appStrikethrough>{{quote.name}} due on {{quote.completeDate|date|uppercase}}</h6>
+            <button (click)='toggleDetails(i)' class="btn btn-primary"> Quote Details</button>
+          </div>
+          <div *ngIf='quote.showDescription'>
+            <app-quote-detail [quote]='quote' (isComplete)='deleteQuote($event,i)'></app-quote-detail>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      <div class="col-md-8 form">
+        <app-quote-form (addQuote)="addNewQuote($event)"></app-quote-form>
+      </div>
+  </div>
+
+    <p *ngIf='quotes.length > 5'>I Hope my quotes inspire you</p>
+  </div>
