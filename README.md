@@ -15,6 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     click here to open the link : <https://github.com/hukish/Quotes-master git>
 
  ##Known Bugs
+   {In case you experience bugs kindly refresh your web page or restart your web browser }
 # LICENCE
 MIT License
 
