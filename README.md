@@ -19,6 +19,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Technologies Used
   1 .Angular.
+    2, CSS.
+      3, bootstrap.
 # LICENCE
 MIT License
 
