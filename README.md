@@ -26,6 +26,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
         6, FontAWesome.
 
 ## Support and contact details
+
+Contact me on my email address :hudsonhukish@gmail.com}
 # LICENCE
 MIT License
 
