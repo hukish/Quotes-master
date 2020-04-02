@@ -16,6 +16,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
  ##Known Bugs
    {In case you experience bugs kindly refresh your web page or restart your web browser }
+
+## Technologies Used
 # LICENCE
 MIT License
 
