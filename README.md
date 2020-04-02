@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | User types the quote(s) and the author and selects the date and clicks on Add a Quote(S)||   
 
 ## Setup/Installation Requirements
-
+  Connect to the internet
 # LICENCE
 MIT License
 
