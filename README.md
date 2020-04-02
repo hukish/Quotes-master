@@ -5,6 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #BDD
 
+ | Behavior :                                                |                                                Input .                                               |                                                                             Output example |.
+| :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------: |
+| User types the quote(s) and the author and selects the date and clicks on Add a Quote(S)||     
+
 # LICENCE
 MIT License
 
