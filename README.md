@@ -23,6 +23,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
       3, bootstrap.
         4, html.
       5, Typescript.
+        6, FontAWesome.
 # LICENCE
 MIT License
 
