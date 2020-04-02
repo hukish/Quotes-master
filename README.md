@@ -18,6 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
    {In case you experience bugs kindly refresh your web page or restart your web browser }
 
 ## Technologies Used
+  1 .Angular.
 # LICENCE
 MIT License
 
