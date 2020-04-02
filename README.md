@@ -21,6 +21,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   1 .Angular.
     2, CSS.
       3, bootstrap.
+        4, html.
+      5, Typescript.
 # LICENCE
 MIT License
 
