@@ -11,6 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Setup/Installation Requirements
   Connect to the internet
+  Download a web browser of your preference
 # LICENCE
 MIT License
 
